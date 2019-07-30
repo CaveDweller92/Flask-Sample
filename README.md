@@ -1,2 +1,2 @@
 # Flask-Sample
-Sample structure for large Flask applications.
+Sample structure for a large Flask applications.
